@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "git.ignoreLimitWarning": true
+}
